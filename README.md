@@ -6,6 +6,14 @@ A production-ready, responsive Flutter Web Quiz Application demonstrating **Clea
 
 ---
 
+## 📸 Screenshots
+
+| Quiz In-Progress | Result Summary & Review |
+|:---:|:---:|
+| ![Quiz In-Progress](docs/screenshots/quiz_in_progress.png) | ![Result Review](docs/screenshots/quiz_result_review.png) |
+
+---
+
 ## 🌟 Key Features
 
 - **Quiz Navigation**: Navigate via **Prev**, **Next**, or direct **Question Selector Grid** (1–20).
@@ -95,11 +103,3 @@ flutter build web --release
 - **Keys**:
   - `'cached_quiz'`: Cached quiz questions.
   - `'quiz_progress'`: Stores `currentQuestionIndex`, `selectedAnswers` map, and `isSubmitted` boolean.
-
----
-
-## 📸 Screenshots
-
-| Quiz In-Progress | Result Summary & Review |
-|:---:|:---:|
-| *(Screenshot Placeholder)* | *(Screenshot Placeholder)* |
